@@ -1,0 +1,5 @@
+n8n_data/
+*.sqlite
+*.zip
+__pycache__/
+.env

@@ -1,2 +1,0 @@
-{"__type":"$$EventMessageAudit","id":"ff82940b-2924-4c0b-8467-6ab254904917","ts":"2025-05-17T03:29:46.123-04:00","eventName":"n8n.audit.workflow.updated","message":"n8n.audit.workflow.updated","payload":{"userId":"148c2c66-ccac-499f-9886-5e2e3362d1d5","_email":"carli.f.roman@gmail.com","_firstName":"Carla","_lastName":"Florida","globalRole":"global:owner","workflowId":"yDy4gUSeTtpoJKAd","workflowName":"IntiBot"}}
-{"__type":"$$EventMessageConfirm","confirm":"ff82940b-2924-4c0b-8467-6ab254904917","ts":"2025-05-17T03:29:46.123-04:00","source":{"id":"0","name":"eventBus"}}
